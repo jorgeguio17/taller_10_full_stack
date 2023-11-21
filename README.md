@@ -5,7 +5,7 @@
 <p>Profesor: Cristian Patiño</p>
 
 <h2>Punto 1: Constantes y Variables</h2>
-<img src="./public/Images/punto_1.png" alt="Imagen punto 1">
+<img src="./public/images/punto_1.png" alt="Imagen punto 1">
 <h2>Punto 2: Suma de Constantes y Variables</h2>
 
 <h2>Punto 3: Suma de dos números indicados por el usuario</h2>
