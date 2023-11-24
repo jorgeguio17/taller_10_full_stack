@@ -31,15 +31,21 @@
 <img src="./public/images/punto_8_2.png" alt="Imagen punto 8 continuación">
 
 <h2>Punto 9: Tabla de multiplicar usando while</h2>
+<img src="./public/images/punto_9.png" alt="Imagen punto 9">
+<img src="./public/images/punto_9_2.png" alt="Imagen punto 9 continuación">
 
 <h2>Punto 10: Numero pares usando while</h2>
+<img src="./public/images/punto_10.png" alt="Imagen punto 10">
 
 <h2>Punto 11: Numero impares usando for</h2>
+<img src="./public/images/punto_11.png" alt="Imagen punto 11">
 
 <h2>Punto 12: Tabla de multiplicar usando for</h2>
+<img src="./public/images/punto_12.png" alt="Imagen punto 12">
+<img src="./public/images/punto_12_2.png" alt="Imagen punto 12 continuación">
 
 <h2>Punto 13: Suma de valores de un arreglo con foreach</h2>
-
+<img src="./public/images/punto_13.png" alt="Imagen punto 13">
 <h2>Punto 14: Revision de contraseña</h2>
 
 <h2>Punto 15: Seleccion de operacion aritmetica usando funciones</h2>
