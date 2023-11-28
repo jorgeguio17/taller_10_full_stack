@@ -47,5 +47,10 @@
 <h2>Punto 13: Suma de valores de un arreglo con foreach</h2>
 <img src="./public/images/punto_13.png" alt="Imagen punto 13">
 <h2>Punto 14: Revision de contraseña</h2>
+<img src="./public/images/punto_14.png" alt="Imagen punto 14">
+<img src="./public/images/punto_14_2.png" alt="Imagen punto 14 continuación">
 
 <h2>Punto 15: Seleccion de operacion aritmetica usando funciones</h2>
+<img src="./public/images/punto_15.png" alt="Imagen punto 15">
+<img src="./public/images/punto_15_2.png" alt="Imagen punto 15 continuación">
+<img src="./public/images/punto_15_3.png" alt="Imagen punto 15 continuacion 2">
