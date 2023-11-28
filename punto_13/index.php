@@ -1,6 +1,11 @@
 <?php
-$arrayNumber = array(2,6,7,8,10);
+$arrayNumber = array();
 $total=0;
+  for($i=0;$i<5;$i++){
+    echo"Escriba número para sumar: ";
+    $arrayNumber[$i]=readline();
+  }
+
   foreach($arrayNumber as $sum){
     $total=$total+$sum;
     }
